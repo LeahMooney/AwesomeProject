@@ -29,7 +29,7 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-        <Greeting name="Leah" collegeName="UPitt"/>
+        <Greeting name="Leah" collegeName="University of Pittsburgh"/>
       </View>
 
     );
